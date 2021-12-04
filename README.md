@@ -1,6 +1,6 @@
 # Sensors-Final-Project
 
-This contains my experimental and final codes for the project
+This contains my experimental and final code (pending more testing on an actual grill) for the project
 
 The goal of this project was to create a working prototype of a grill/smoker controller. It should do 5 things.
 
